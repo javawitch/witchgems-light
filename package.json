@@ -1,0 +1,21 @@
+{
+    "name": "witch-gems-light",
+    "displayName": "Witch Gems Light",
+    "description": "Witch Gems.. but Light!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Witch Gems Light",
+                "uiTheme": "vs",
+                "path": "./themes/Witch Gems Light-color-theme.json"
+            }
+        ]
+    }
+}
